@@ -1,3 +1,9 @@
+// import ProfileImage from "./ProfileImage";
+// import TimeStamp from "./Timestamp";
+// import User from "./User";
+// import Message from "./Message";
+// import Actions from "./Actions";
+
 function Tweet() {
   return (
     <div className="tweet">
